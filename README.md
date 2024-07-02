@@ -5,13 +5,13 @@
 
 
 ## Paint Application
-This is a drawing app that lets you create circles, rectangles, and other shapes in a range of colors. It serves as a demonstration of Swing widgets and listeners in action.
+This is a drawing app that lets you create circles, rectangles, and other shapes in a range of colors. It serves as a demonstration of Swing widgets and listeners in action. Three version are included: (a) alpha is the version with just UI elements without functionality; (b) beta version includes listener calls; (c) gamma is the first fully functional version.
 
 ## Running
 
-To execute run as:
+To execute (te full version) run as:
 ```
-java -jar javiergs.PaintApp
+java -jar javiergs.gamma.PaintApp
 ```
 ## User Interface
 
