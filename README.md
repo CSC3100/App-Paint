@@ -15,7 +15,7 @@ java -jar javiergs.gamma.PaintApp
 ```
 ## User Interface
 
-The graphical user interface (GUI) is depicted below (version 1).
+The graphical user interface (GUI) is depicted below (gamma version).
 
 <p align="center">
 <IMG SRC="https://github.com/CSC3100/Swing/assets/3814755/8b5aa0b5-094a-44b6-ad29-2d94a807af0a" WIDTH=600>
