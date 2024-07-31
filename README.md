@@ -22,11 +22,19 @@ The graphical user interface (GUI) is depicted below (gamma version).
 
 ## Beta Version
 
+?
+
 ## Gamma Version
+
+Menubar and undo functionality
 
 ## Kappa Version
 
+Selection of shapes for moving and recoloring
+
 ## Lambda Version
+
+Observer and decorator patterns
 
 ## Blueprint
 A drafted class diagram of the current release is as follows:
