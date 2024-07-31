@@ -20,6 +20,14 @@ The graphical user interface (GUI) is depicted below (gamma version).
 <IMG SRC="https://github.com/CSC3100/Swing/assets/3814755/8b5aa0b5-094a-44b6-ad29-2d94a807af0a" WIDTH=600>
 </p>
 
+## Beta Version
+
+## Gamma Version
+
+## Kappa Version
+
+## Lambda Version
+
 ## Blueprint
 A drafted class diagram of the current release is as follows:
 
@@ -28,11 +36,3 @@ A drafted class diagram of the current release is as follows:
 <img width="600" src="https://github.com/CSC3100/Pong-Game/assets/3814755/26cf5ecf-8172-4a36-8942-88b05d31b6e7">
   -->
 </p>
-
-## Beta Version
-
-## Gamma Version
-
-## Kappa Version
-
-## Lambda Version
