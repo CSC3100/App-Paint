@@ -22,7 +22,7 @@ The graphical user interface (GUI) is depicted below (gamma version).
 
 ## Beta Version
 
-?
+...
 
 ## Gamma Version
 
