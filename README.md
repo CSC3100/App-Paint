@@ -12,7 +12,7 @@ To execute (te full version) run as:
 ```
 java -jar javiergs.gamma.PaintApp
 ```
-## User Interface
+## Alpha Version
 
 The graphical user interface (GUI) is depicted below (gamma version).
 
@@ -28,3 +28,11 @@ A drafted class diagram of the current release is as follows:
 <img width="600" src="https://github.com/CSC3100/Pong-Game/assets/3814755/26cf5ecf-8172-4a36-8942-88b05d31b6e7">
   -->
 </p>
+
+## Beta Version
+
+## Gamma Version
+
+## Kappa Version
+
+## Lambda Version
